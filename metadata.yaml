@@ -2,5 +2,10 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-consentmanagernet-consent-variable
 versions:
+# LATEST VERSION
+  - sha: dadce1402423ffbf9d8b8d77c1ccab8d9928038d
+    changeNotes: Updated the variable custom template name.
+
+#INITIAL VERSION
   - sha: 3b161820c1a36155df4e2c7181d101d84885e7ad
     changeNotes: Initial release.
