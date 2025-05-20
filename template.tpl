@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "ConsentManager.net Consent State",
+  "displayName": "DD ConsentManager.net Consent State (Unofficial)",
   "description": "Use with the ConsentManager.net CMP to identify the individual website user\u0027s consent state and configure when tags should execute.",
   "containerContexts": [
     "WEB"
@@ -355,6 +355,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 5/7/2025, 11:52:01 AM
+Created on 5/20/2025, 9:47:26 AM
 
 
